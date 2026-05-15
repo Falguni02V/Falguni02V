@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ░░░ ANIMATED HEADER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Falguni02V&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Code%20That%20Heals%20%26%20Empowers&descAlignY=58&descSize=17&descColor=a78bfa" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Falguni02V&fontSize=50&fontColor=fff)
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <a href="https://git.io/typing-svg">
